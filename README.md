@@ -1,4 +1,4 @@
-# ARPES-Analysis-Loaders
+# ARPES_Analysis_Loaders
 Python scripts for loading and analysing ARPES data.
 
 ---
