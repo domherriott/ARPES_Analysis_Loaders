@@ -38,7 +38,7 @@ The script does not consist of functions but does have variables within the code
 
 #### numberOfColourBins
 This determines the number of colour bins you wish to use for the spatial map (default = 20).
-##### filename
+#### filename
 This should be the name of the file you wish to analyse. The script file and the file to be analysed MUST be in the same directory. (N.B. This only works for nexus files, so should end .nxs)
 
 ---
